@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>USAUMEME</title>
+<title>LOGIN</title>
 
 <link href="/Assets/css/bootstrap.min.css" rel="stylesheet">
 <link href="/Assets/css/datepicker3.css" rel="stylesheet">
