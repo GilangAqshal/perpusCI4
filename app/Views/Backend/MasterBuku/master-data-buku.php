@@ -21,7 +21,7 @@
                     <table data-toggle="table" data-show-refresh="true" data-show-toggle="true" data-show-columns="true" data-search="true" data-pagination="true">
                         <thead>
                             <tr>
-                                <th data-sortable="true">No</th>
+                                <th data-sortable="true">No.</th>
                                 <th data-sortable="true">Cover Buku</th>
                                 <th data-sortable="true">Judul Buku</th>
                                 <th data-sortable="true">Pengarang</th>
