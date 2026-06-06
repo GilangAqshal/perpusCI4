@@ -2,7 +2,7 @@
     <div class="row">
         <ol class="breadcrumb">
             <li><a href="#"><span class="glyphicon glyphicon-home"></span></a></li>
-            <li>Master Data Adminn</li>
+            <li>Master Data Admin</li>
             <li class="active">Edit Data Admin</li>
         </ol>
     </div><!--/.row-->
